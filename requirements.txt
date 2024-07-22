@@ -1,0 +1,11 @@
+flask
+python-dotenv
+authlib
+requests
+pydantic
+pydantic-settings
+pydantic_core
+pymongo
+flask-login
+gunicorn
+beanie
